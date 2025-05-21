@@ -1,3 +1,20 @@
-# jetson_dli
+![IMG_1450](https://github.com/user-attachments/assets/b219b781-1e9d-43d4-b244-8b2f01fc8e3f)# jetson_dli
 #우분투 설치하기
 #![IMG_1443](https://github.com/user-attachments/assets/dafb2fe3-ad3e-43d3-be46-7e9a94d78f7c)
+#![IMG_1444](https://github.com/user-attachments/assets/2f86a9b2-59ef-4529-a929-d0e44a149a8b)
+#![IMG_1445](https://github.com/user-attachments/assets/c45aebd6-bc7f-4782-a510-8210ffb8612d)
+#![IMG_1446](https://github.com/user-attachments/assets/14ef99ce-284a-4af9-a727-8dae453e2d29)
+#![IMG_1447](https://github.com/user-attachments/assets/c3a57d3f-739b-4f9a-93d1-19831e82747f)
+#![IMG_1448](https://github.com/user-attachments/assets/d320bdb2-869d-4edc-be3d-89db2b0c0c3d)
+#![IMG_1449](https://github.com/user-attachments/assets/7d6a70fc-9309-413f-8569-acc2f3f33e1f)
+#![IMG_1450](https://github.com/user-attachments/assets/793e1743-032b-4c31-ba4d-70ef4fef8e88)
+#![IMG_1451](https://github.com/user-attachments/assets/f90ee4f2-050d-4e66-b7a2-d27cf100e00c)
+#![IMG_1452](https://github.com/user-attachments/assets/b28b336e-428f-4529-bc32-7a99594887b9)
+#![IMG_1453](https://github.com/user-attachments/assets/abc3bcdf-524d-4f76-a77c-31a5f5c7bdb2)
+#![IMG_1454](https://github.com/user-attachments/assets/416f4f27-5763-4b0b-9dc6-526feb3cde06)
+#![IMG_1455](https://github.com/user-attachments/assets/00c506f1-e06a-44e1-9f93-999984d560be)
+#![IMG_1456](https://github.com/user-attachments/assets/e6d8d6ec-2e3d-4ba7-9cb4-32923e607d3c)
+#![IMG_1457](https://github.com/user-attachments/assets/a8539e76-9097-4263-98bd-0d1245108f86)
+#![IMG_1458](https://github.com/user-attachments/assets/7303b9fa-4252-4665-a351-74654e9fae2b)
+#![IMG_1459](https://github.com/user-attachments/assets/93b30e05-fe5b-4e49-9b3d-b695b6378ba0)
+#![IMG_1460](https://github.com/user-attachments/assets/2a03ed65-410f-4263-b53e-9ee366a7a3f5)
